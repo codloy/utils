@@ -1,5 +1,3 @@
-import isArrayBuffer from './isArrayBuffer';
+import isString from 'isString';
 
-const is = isArrayBuffer([1, 2, 3]);
-
-console.log(is);
+console.log(isString('asd'));

@@ -20,7 +20,6 @@ enum Tag {
   Function = '[object Function]',
   Generator = '[object Generator]',
   GeneratorFunction = '[object GeneratorFunction]',
-  // globalThis
   Infinity = '[object Number]',
   Int8Array = '[object Int8Array]',
   Int16Array = '[object Int16Array]',
@@ -36,7 +35,7 @@ enum Tag {
   Object = '[object Object]',
   Promise = '[object Promise]',
   Proxy = '[object Object]', // ?
-  RandeError = '[object Error]',
+  RangeError = '[object Error]',
   ReferenceError = '[object Error]',
   Reflect = '[object Reflect]',
   RegExp = '[object RegExp]',
