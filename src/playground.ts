@@ -1,3 +1,3 @@
 import isString from 'isString';
 
-console.log(isString('asd'));
+console.log(isString(123));

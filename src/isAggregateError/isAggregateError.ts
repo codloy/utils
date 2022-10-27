@@ -7,7 +7,7 @@
  */
 function isAggregateError(value: any): value is false {
   //   return value instanceof ReferenceError;
-  return false;
+  return value;
 }
 
 export default isAggregateError;
