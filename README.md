@@ -21,6 +21,6 @@ console.log(isNumber('123')); // false
 
 ## Standard built-in objects
 
-- AggregateError
-- Array
-- ArrayBuffer
+- [AggregateError](https://github.com/codloy/utils/tree/main/src/isAggregateError#readme)
+- [Array](https://github.com/codloy/utils/tree/main/src/isArray#readme)
+- [ArrayBuffer](https://github.com/codloy/utils/tree/main/src/isArrayBuffer#readme)
